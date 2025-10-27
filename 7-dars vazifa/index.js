@@ -62,7 +62,7 @@
 //     console.log("Ish kuni.");
 // }
 
-// let speed = prompt("Internet tezligini kiriting (Mbps):");
+// let speed = prompt("Internet tezligini kiriting (Mb/s):");
 // if (speed < 5) {
 //     console.log("Juda sekin.");
 // } else if (speed >= 5 && speed <= 20) {
