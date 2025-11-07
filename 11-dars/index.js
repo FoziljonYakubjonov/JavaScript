@@ -8,15 +8,18 @@
 //     return sum
 // }
 // console.log(xisobla1());
-
-
 // // xisobla1()
+
+
 // Function expression
 // // let xisobla2 = function(){
 // //     console.log("Salom.");
     
 // // }
 // // xisobla2()
+
+
+
 
 // Arrow function.
 // // let xisobla3 = ()=>{
