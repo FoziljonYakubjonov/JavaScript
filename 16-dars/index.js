@@ -20,7 +20,7 @@
 // console.log(`${son}`);
 
 // let num = 8
-// // console.log(num.toString(2)); -> Decimaldan binaryga.
+// console.log(num.toString(2)); -> Decimaldan binaryga.
 // console.log(parseInt("1000", 2)); -> Binarydan decimalga.
 // ___________________________________________________________________________________________
 
